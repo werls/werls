@@ -3,9 +3,9 @@ Graphic designer and visual artist. Mainly interested in html canvas drawing, im
 
 ## Some personal links. 
 
-[Behance](https://be.net/werls). 
-[Instagram](https://instagram.com/werls). 
-[OpenProcessing](https://openprocessing.org/user/258194)   
+[Behance](https://be.net/werls)  
+[Instagram](https://instagram.com/werls)  
+[OpenProcessing](https://openprocessing.org/user/258194)  
 [Twitter](https://twitter.com/werls)  
 
 <!--
