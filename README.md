@@ -1,7 +1,7 @@
-# Werllen Castro  
-Graphic designer and visual artist. Mainly interested in html canvas drawing, image processing, shaders, typography and the use of coding to build graphics tools to support design projects.  
+# Hi there!  
+I'm a brazillian graphic designer and visual artist, mainly interested in html canvas drawing, image processing, shaders, typography and the use of coding to build graphics tools to support design projects.  
 
-## Links  
+## My links  
 
 [Behance](https://be.net/werls)  
 [Instagram](https://instagram.com/werls)  
