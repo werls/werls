@@ -1,7 +1,5 @@
 # Werllen Castro. 
-Graphic designer and visual artist.  
-
-Mainly interested in html canvas drawing, shaders, typography and using code to build graphics tools.  
+Graphic designer and visual artist. Mainly interested in html canvas drawing, image processing, shaders, typography and the use of coding to build graphics tools.  
 
 ## Some personal links. 
 
