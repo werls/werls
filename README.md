@@ -1,4 +1,14 @@
-### Hi there 👋
+# Werllen Castro. 
+Graphic designer and visual artist.  
+
+Mainly interested in html canvas drawing, shaders, typography and using code to build graphics tools.  
+
+## Some personal links. 
+
+[Behance](https://be.net/werls). 
+[Instagram](https://instagram.com/werls). 
+[OpenProcessing](https://openprocessing.org/user/258194)   
+[Twitter](https://twitter.com/werls)  
 
 <!--
 **werls/werls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
