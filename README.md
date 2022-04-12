@@ -5,10 +5,11 @@ I'm a brazillian graphic designer and visual artist, mainly interested in html c
 
 ### Some links about me and my work  
 
-[Behance](https://be.net/werls)  
-[Instagram](https://instagram.com/werls)  
-[OpenProcessing](https://openprocessing.org/user/258194)  
-[Twitter](https://twitter.com/werls)  
+→ [Behance](https://be.net/werls)  
+→ [Instagram](https://instagram.com/werls)  
+→ [CodePen](https://codepen.io/werls)
+→ [OpenProcessing](https://openprocessing.org/user/258194)  
+→ [Twitter](https://twitter.com/werls)  
 
 <!--
 **werls/werls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
