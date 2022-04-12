@@ -1,6 +1,8 @@
 ## Hi there!  
 I'm a brazillian graphic designer and visual artist, mainly interested in html canvas drawing, image processing, shaders, typography and the use of coding to build graphics tools to support design projects.  
 
+![werls xyz 12-Apr-2022-093008](https://user-images.githubusercontent.com/22551176/162962799-0132b992-f51c-4526-8d87-05a29e36b7b2.gif)
+
 ### Some links about me and my work  
 
 [Behance](https://be.net/werls)  
